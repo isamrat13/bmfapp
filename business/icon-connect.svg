@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="167.79mm" height="167.79mm" viewBox="0 0 475.62 475.62">
+  <defs>
+    <style>
+      .a, .b, .d {
+        fill: #fff;
+      }
+
+      .a {
+        opacity: 0.33;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .c, .d {
+        stroke: #389dca;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.58px;
+      }
+
+      .e {
+        fill: #389dca;
+        opacity: 0.3;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <title>icones-business-circulo</title>
+  <g>
+    <circle class="a" cx="237.81" cy="237.81" r="237.81"/>
+    <circle class="a" cx="237.81" cy="237.81" r="197.57"/>
+    <circle class="b" cx="237.81" cy="237.81" r="159.31"/>
+    <g>
+      <path class="c" d="M182.06,281.28a196.88,196.88,0,0,1-15.62-51.82s17.15-39.71,39.5-56.24"/>
+      <path class="c" d="M206,173.22s30.93-3.37,61.55,4.29c0,0,23.89,18.37,32.15,38.89,0,0,5.82,36.67-5.51,64.88"/>
+      <path class="c" d="M182.06,281.28A947.55,947.55,0,0,1,206,173.22s55,44.12,88.2,108.06"/>
+      <path class="c" d="M267.5,177.51s-52.26,12.76-101.06,52c0,0,17.56,23.12,38.79,37.69"/>
+      <path class="c" d="M265,251.21s11.27-6.43,34.64-34.81c0,0-66-12.87-133.21,13.06"/>
+      <circle class="c" cx="235.64" cy="252.61" r="16.75"/>
+      <path class="c" d="M257.39,290.78c0-9.25-9.74-16.75-21.76-16.75s-21.76,7.5-21.76,16.75l-4.66,29.11h53.65Z"/>
+      <circle class="d" cx="182.06" cy="281.28" r="9.49"/>
+      <circle class="d" cx="166.45" cy="229.47" r="13.53"/>
+      <circle class="d" cx="205.95" cy="173.22" r="10.72"/>
+      <circle class="d" cx="267.5" cy="177.51" r="14.09"/>
+      <circle class="d" cx="299.66" cy="216.4" r="10.72"/>
+      <circle class="d" cx="294.15" cy="281.28" r="14.13"/>
+      <circle class="e" cx="182.06" cy="281.28" r="9.49"/>
+      <circle class="e" cx="166.45" cy="229.47" r="13.53"/>
+      <circle class="e" cx="205.95" cy="173.22" r="10.72"/>
+      <circle class="e" cx="267.5" cy="177.51" r="14.09"/>
+      <circle class="e" cx="299.66" cy="216.4" r="10.72"/>
+      <circle class="e" cx="294.15" cy="281.28" r="14.13"/>
+    </g>
+  </g>
+</svg>
